@@ -1,0 +1,28 @@
+
+.page-title {
+    display: block !important;
+    text-align: center;
+    font-size: 2rem;
+    margin-top: 10px;
+}
+
+.form-container {
+    width: 400px;
+    margin: auto;
+}
+
+.post-submit {
+    padding: 10px;
+}
+
+.home-container {
+    width: 700px;
+    margin: auto;
+}
+
+.ui.container {
+    width: 1000px;
+}
+
+
+
